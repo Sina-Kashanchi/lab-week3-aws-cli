@@ -3,3 +3,4 @@
 Starting script files for the week 3 lab.
 
 See D2L for lab instructions
+# lab-week3-aws-cli
